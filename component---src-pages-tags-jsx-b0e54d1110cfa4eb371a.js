@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[9],{PcuZ:function(t,e,n){"use strict";n.r(e);n("q1tI");var a=n("tCqT"),c=n("TiLl"),l=n("TJpk"),o=n.n(l),s=n("qKvR");e.default=function(t){var e=t.pageContext.tags;return Object(s.d)(a.d,null,Object(s.d)(o.a,{title:"Bloomsol | Tags"}),Object(s.d)(c.b,{title:"Tags Page"}),Object(s.d)(a.a,null,Object(s.d)(c.e,{list:e})))}}}]);
-//# sourceMappingURL=component---src-pages-tags-jsx-b0e54d1110cfa4eb371a.js.map
