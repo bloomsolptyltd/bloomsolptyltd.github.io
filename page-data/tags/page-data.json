@@ -1,1 +1,5 @@
-{"componentChunkName":"component---src-templates-tags-jsx","path":"/tags","result":{"pageContext":{"tags":["covid","covid-19","gotchas","javascript","lodash","news","productivity tips","rants","working from home"]}},"staticQueryHashes":["1830426702"]}
+{
+    "componentChunkName": "component---src-templates-tags-jsx",
+    "path": "/tags",
+    "result": {"pageContext":{"tags":["covid","covid-19","gotchas","javascript","lodash","news","productivity tips","rants","working from home"]}},
+    "staticQueryHashes": ["1205696512"]}
