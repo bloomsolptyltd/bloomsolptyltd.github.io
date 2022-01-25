@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tag-jsx",
+    "path": "/tags/covid-19",
+    "result": {"pageContext":{"posts":[{"frontmatter":{"path":"/working-from-home-in-the-covid-19-times","title":"Working from home in the COVID-19 times","tags":["rants","working from home","covid","covid-19","productivity tips"]}}],"tagName":"covid-19"}},
+    "staticQueryHashes": ["1205696512"]}
