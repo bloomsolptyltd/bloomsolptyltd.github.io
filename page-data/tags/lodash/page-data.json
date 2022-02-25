@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tag-jsx",
+    "path": "/tags/lodash",
+    "result": {"pageContext":{"posts":[{"frontmatter":{"path":"/object-assign-gotchas","title":"Object.assign() gotchas","tags":["javascript","lodash","gotchas"]}}],"tagName":"lodash"}},
+    "staticQueryHashes": ["1205696512"]}
