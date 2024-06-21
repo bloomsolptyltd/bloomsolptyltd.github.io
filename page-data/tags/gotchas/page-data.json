@@ -1,5 +1,1 @@
-{
-    "componentChunkName": "component---src-templates-tag-jsx",
-    "path": "/tags/gotchas",
-    "result": {"pageContext":{"posts":[{"frontmatter":{"path":"/object-assign-gotchas","title":"Object.assign() gotchas","tags":["javascript","lodash","gotchas"]}}],"tagName":"gotchas"}},
-    "staticQueryHashes": ["1205696512"]}
+{"componentChunkName":"component---src-templates-tag-jsx","path":"/tags/gotchas","result":{"pageContext":{"posts":[{"frontmatter":{"path":"/object-assign-gotchas","title":"Object.assign() gotchas","tags":["javascript","lodash","gotchas"]}}],"tagName":"gotchas"}},"staticQueryHashes":["1205696512"]}
